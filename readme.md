@@ -1,6 +1,6 @@
 ### doodlebug
 
-lol globabls
+lol globals
 
 ## example
 
