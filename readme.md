@@ -1,8 +1,8 @@
-### doodlebug
+## doodlebug
 
 lol globals
 
-## example
+### example
 
 ```
 require('doodlebug')
@@ -16,6 +16,6 @@ console.log(a)
 // hello!
 ```
 
-## license
+### license
 
 MIT
