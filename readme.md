@@ -2,7 +2,7 @@
 
 lol globabls
 
-## exmample
+## example
 
 ```
 require('doodlebug')
