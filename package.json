@@ -1,6 +1,6 @@
 {
   "name": "doodlebug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Piss off Junior Developers with this One Weird Trick",
   "main": "index.js",
   "scripts": {
